@@ -1,0 +1,3 @@
+[submodule "Fluent-Behaviour-Tree"]
+	path = Fluent-Behaviour-Tree
+	url = https://github.com/ashleydavis/Fluent-Behaviour-Tree.git
